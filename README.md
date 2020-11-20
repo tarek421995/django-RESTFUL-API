@@ -16,6 +16,10 @@ the stranth point :
 
 # for deployment you have to use djanog-host for rubust uri and fetching and posting data to the server
 
+# for deployment visit this url https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment 
+the app is running on heruko on 
+##### https://restapp-django.herokuapp.com/api/postings/
+
 ### Software
 
 thank for :
