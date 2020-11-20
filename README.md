@@ -19,7 +19,11 @@ the stranth point :
 # for deployment visit this url https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment 
 the app is running on heruko on 
 ##### https://restapp-django.herokuapp.com/api/postings/
-
+ # useful command for django and deployment 
+ $ python manage.py collectstatic //this is for collect the staticfiles in folder to serving online 
+ 
+ $ python manage.py createsuperuser // to  create admin user that is realted to your use
+ 
 ### Software
 
 thank for :
